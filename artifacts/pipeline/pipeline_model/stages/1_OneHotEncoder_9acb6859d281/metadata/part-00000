@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1636870966316,"sparkVersion":"3.0.3","uid":"OneHotEncoder_9acb6859d281","paramMap":{"outputCols":["sex_encoded","smoker_encoded"],"inputCols":["sex_encoder","smoker_encoder"]},"defaultParamMap":{"outputCol":"OneHotEncoder_9acb6859d281__output","handleInvalid":"error","dropLast":true}}
